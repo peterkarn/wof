@@ -1,0 +1,576 @@
+{
+   "result":[
+      {
+         "main_benefit":{
+            "benefit_id":273462,
+            "type":"wheel",
+            "title":"Wheel of Fortune",
+            "description":"",
+            "alias":"wheel-of-fortune-unf-3-2",
+            "image":null,
+            "icons":{
+               "on":null,
+               "off":null
+            },
+            "categories":[
+               
+            ],
+            "choices":{
+               
+            },
+            "recurring":"week",
+            "count":1,
+            "hits":0,
+            "status":"new",
+            "pct":0,
+            "steps":[
+               
+            ]
+         },
+         "main_package":{
+            "package_id":9297909,
+            "status":"wof_choice"
+         },
+         "section":[
+            {
+               "benefit_id":273450,
+               "type":"empty",
+               "title":"Missed",
+               "description":"Missed",
+               "alias":"wheel-unfun-missed-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"empty",
+                           "status":"new",
+                           "wager":40,
+                           "currency":"EUR",
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273460,
+               "type":"autobonus",
+               "title":"Wheel Bonus 5 EUR",
+               "description":"5€",
+               "alias":"wheel-bonus-5-eur-unf-3",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"casino",
+                           "amount":5,
+                           "status":"new",
+                           "wager":50,
+                           "currency":"EUR",
+                           "rollover":250,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273452,
+               "type":"autobonus",
+               "title":"Wheel 5 LP",
+               "description":5,
+               "alias":"wheel-5-lp-unf-3",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"loyalty",
+                           "amount":"5",
+                           "status":"new",
+                           "wager":35,
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273457,
+               "type":"autobonus",
+               "title":"Wheel 20 FS",
+               "description":20,
+               "alias":"wheel-20-fs-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"freespin",
+                           "amount":"20",
+                           "status":"new",
+                           "game":{
+                              "game_id":81109,
+                              "name":"Gates of Olympus Xmas 1000",
+                              "alias":"268886-gates-of-olympus-xmas-1000",
+                              "ratio":"16:9",
+                              "images":{
+                                 "small":"https://altacdn.com/hx/img/games/268886-gates-of-olympus-xmas-1000.jpg",
+                                 "mid":"https://altacdn.com/hx/img/games/268886-gates-of-olympus-xmas-1000_thumbnailx2.jpg",
+                                 "big":"https://altacdn.com/hx/img/games/268886-gates-of-olympus-xmas-1000_bg.jpg",
+                                 "promo":"https://altacdn.com/hx/img/games/268886-gates-of-olympus-xmas-1000.jpg"
+                              },
+                              "idx":459,
+                              "rtp":"",
+                              "brand":{
+                                 "brand_id":960,
+                                 "name":"PragmaticPlay",
+                                 "logo":"https://altacdn.com/hx/img/brands/pragmaticplay_logo.svg"
+                              },
+                              "tournament":true,
+                              "categories":[
+                                 
+                              ],
+                              "collections":[
+                                 
+                              ],
+                              "demo":true
+                           },
+                           "wager":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273454,
+               "type":"empty",
+               "title":"No luck",
+               "description":"No Luck",
+               "alias":"wheel-unfun-no-luck",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"empty",
+                           "status":"new",
+                           "wager":40,
+                           "currency":"EUR",
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273455,
+               "type":"autobonus",
+               "title":"Wheel 10 FS",
+               "description":10,
+               "alias":"wheel-10-fs-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"freespin",
+                           "amount":"10",
+                           "status":"new",
+                           "game":{
+                              "game_id":80466,
+                              "name":"Big Bass Xmas Xtreme",
+                              "alias":"267975-big-bass-xmas-xtreme",
+                              "ratio":"16:9",
+                              "images":{
+                                 "small":"https://altacdn.com/hx/img/games/267975-big-bass-xmas-xtreme.jpg",
+                                 "mid":"https://altacdn.com/hx/img/games/267975-big-bass-xmas-xtreme_thumbnailx2.jpg",
+                                 "big":null,
+                                 "promo":"https://altacdn.com/hx/img/games/267975-big-bass-xmas-xtreme.jpg"
+                              },
+                              "idx":453,
+                              "rtp":"",
+                              "brand":{
+                                 "brand_id":960,
+                                 "name":"PragmaticPlay",
+                                 "logo":"https://altacdn.com/hx/img/brands/pragmaticplay_logo.svg"
+                              },
+                              "tournament":false,
+                              "categories":[
+                                 
+                              ],
+                              "collections":[
+                                 
+                              ],
+                              "demo":true
+                           },
+                           "wager":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273456,
+               "type":"empty",
+               "title":"Missed",
+               "description":"Missed",
+               "alias":"wheel-unfun-missed-3",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"empty",
+                           "status":"new",
+                           "wager":40,
+                           "currency":"EUR",
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273453,
+               "type":"autobonus",
+               "title":"Wheel 10 LP",
+               "description":10,
+               "alias":"wheel-10-lp-unf-3",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"loyalty",
+                           "amount":"10",
+                           "status":"new",
+                           "wager":35,
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273458,
+               "type":"autobonus",
+               "title":"Wheel Bonus 1 EUR",
+               "description":"1€",
+               "alias":"wheel-bonus-1-eur-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"casino",
+                           "amount":1,
+                           "status":"new",
+                           "wager":50,
+                           "currency":"EUR",
+                           "rollover":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273459,
+               "type":"empty",
+               "title":"No luck",
+               "description":"No luck",
+               "alias":"wheel-unfun-no-luck-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"empty",
+                           "status":"new",
+                           "wager":40,
+                           "currency":"EUR",
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273451,
+               "type":"autobonus",
+               "title":"Wheel 3 LP",
+               "description":3,
+               "alias":"wheel-3-lp-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"loyalty",
+                           "amount":"3",
+                           "status":"new",
+                           "wager":35,
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":273461,
+               "type":"autobonus",
+               "title":"Wheel Bonus 10 EUR",
+               "description":"10€",
+               "alias":"wheel-bonus-10-eur-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"casino",
+                           "amount":10,
+                           "status":"new",
+                           "wager":50,
+                           "currency":"EUR",
+                           "rollover":500,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            }
+         ],
+         "rotation":[
+            {
+               "payment_type":"loyalty",
+               "cost":0
+            },
+            {
+               "payment_type":"loyalty",
+               "cost":100
+            }
+         ],
+         "limits":{
+            "recurring":"week",
+            "spins_completed":1,
+            "max_total_spins":2,
+            "max_free_spins":0
+         },
+         "all_results":[
+            273456
+         ]
+      }
+   ]
+}
