@@ -1,0 +1,660 @@
+{
+   "result":[
+      {
+         "main_benefit":{
+            "benefit_id":257462,
+            "type":"wheel",
+            "title":"Wheel of Fortune",
+            "description":"",
+            "alias":"wheel-of-fortune-unf-2",
+            "image":null,
+            "icons":{
+               "on":null,
+               "off":null
+            },
+            "categories":[
+               "wheel"
+            ],
+            "choices":{
+               
+            },
+            "recurring":"week",
+            "count":1,
+            "hits":0,
+            "status":"new",
+            "pct":0,
+            "steps":[
+               
+            ]
+         },
+         "main_package":{
+            "package_id":9297890,
+            "status":"wof_choice"
+         },
+         "section":[
+            {
+               "benefit_id":257432,
+               "type":"empty",
+               "title":"Wheel 1 LP",
+               "description":1,
+               "alias":"wheel-1-lp-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"empty",
+                           "amount":"1",
+                           "status":"new",
+                           "wager":35,
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257461,
+               "type":"autobonus",
+               "title":"Wheel Bonus 10 EUR",
+               "description":"10€",
+               "alias":"wheel-bonus-10-eur",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"casino",
+                           "amount":10,
+                           "status":"new",
+                           "wager":50,
+                           "currency":"EUR",
+                           "rollover":500,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257437,
+               "type":"autobonus",
+               "title":"Wheel 5 FS",
+               "description":5,
+               "alias":"wheel-5-fs-unf",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"freespin",
+                           "amount":"5",
+                           "status":"new",
+                           "game":{
+                              "game_id":80466,
+                              "name":"Big Bass Xmas Xtreme",
+                              "alias":"254341-big-bass-xmas-xtreme",
+                              "ratio":"16:9",
+                              "images":{
+                                 "small":"https://altacdn.com/bef/img/games/254341-big-bass-xmas-xtreme.jpg",
+                                 "mid":"https://altacdn.com/bef/img/games/254341-big-bass-xmas-xtreme_thumbnailx2.jpg",
+                                 "big":null,
+                                 "promo":"https://altacdn.com/bef/img/games/254341-big-bass-xmas-xtreme.jpg"
+                              },
+                              "idx":448,
+                              "rtp":"",
+                              "brand":{
+                                 "brand_id":960,
+                                 "name":"PragmaticPlay",
+                                 "logo":"https://altacdn.com/bef/img/brands/pragmaticplay_logo.svg"
+                              },
+                              "tournament":false,
+                              "categories":[
+                                 
+                              ],
+                              "collections":[
+                                 
+                              ],
+                              "demo":true
+                           },
+                           "wager":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257433,
+               "type":"autobonus",
+               "title":"Wheel 3 LP",
+               "description":3,
+               "alias":"wheel-3-lp-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"loyalty",
+                           "amount":"3",
+                           "status":"new",
+                           "wager":35,
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257458,
+               "type":"autobonus",
+               "title":"Wheel Bonus 1 EUR",
+               "description":"1€",
+               "alias":"wheel-bonus-1-eur",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"casino",
+                           "amount":1,
+                           "status":"new",
+                           "wager":50,
+                           "currency":"EUR",
+                           "rollover":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257439,
+               "type":"autobonus",
+               "title":"Wheel 15 FS",
+               "description":15,
+               "alias":"wheel-15-fs-unf",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"freespin",
+                           "amount":"15",
+                           "status":"new",
+                           "game":{
+                              "game_id":81109,
+                              "name":"Gates of Olympus Xmas 1000",
+                              "alias":"255234-gates-of-olympus-xmas-1000",
+                              "ratio":"16:9",
+                              "images":{
+                                 "small":"https://altacdn.com/bef/img/games/255234-gates-of-olympus-xmas-1000.jpg",
+                                 "mid":"https://altacdn.com/bef/img/games/255234-gates-of-olympus-xmas-1000_thumbnailx2.jpg",
+                                 "big":null,
+                                 "promo":"https://altacdn.com/bef/img/games/255234-gates-of-olympus-xmas-1000.jpg"
+                              },
+                              "idx":459,
+                              "rtp":"",
+                              "brand":{
+                                 "brand_id":960,
+                                 "name":"PragmaticPlay",
+                                 "logo":"https://altacdn.com/bef/img/brands/pragmaticplay_logo.svg"
+                              },
+                              "tournament":true,
+                              "categories":[
+                                 
+                              ],
+                              "collections":[
+                                 
+                              ],
+                              "demo":true
+                           },
+                           "wager":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257437,
+               "type":"autobonus",
+               "title":"Wheel 5 FS",
+               "description":5,
+               "alias":"wheel-5-fs-unf",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"freespin",
+                           "amount":"5",
+                           "status":"new",
+                           "game":{
+                              "game_id":80466,
+                              "name":"Big Bass Xmas Xtreme",
+                              "alias":"254341-big-bass-xmas-xtreme",
+                              "ratio":"16:9",
+                              "images":{
+                                 "small":"https://altacdn.com/bef/img/games/254341-big-bass-xmas-xtreme.jpg",
+                                 "mid":"https://altacdn.com/bef/img/games/254341-big-bass-xmas-xtreme_thumbnailx2.jpg",
+                                 "big":null,
+                                 "promo":"https://altacdn.com/bef/img/games/254341-big-bass-xmas-xtreme.jpg"
+                              },
+                              "idx":448,
+                              "rtp":"",
+                              "brand":{
+                                 "brand_id":960,
+                                 "name":"PragmaticPlay",
+                                 "logo":"https://altacdn.com/bef/img/brands/pragmaticplay_logo.svg"
+                              },
+                              "tournament":false,
+                              "categories":[
+                                 
+                              ],
+                              "collections":[
+                                 
+                              ],
+                              "demo":true
+                           },
+                           "wager":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257460,
+               "type":"autobonus",
+               "title":"Wheel Bonus 5 EUR",
+               "description":"5€",
+               "alias":"wheel-bonus-5-eur",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"casino",
+                           "amount":5,
+                           "status":"new",
+                           "wager":50,
+                           "currency":"EUR",
+                           "rollover":250,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257457,
+               "type":"autobonus",
+               "title":"Wheel 20 FS",
+               "description":20,
+               "alias":"wheel-20-fs-unf",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"freespin",
+                           "amount":"20",
+                           "status":"new",
+                           "game":{
+                              "game_id":81002,
+                              "name":"Santa's Xmas Rush",
+                              "alias":"254638-santas-xmas-rush",
+                              "ratio":"16:9",
+                              "images":{
+                                 "small":"https://altacdn.com/bef/img/games/254638-santas-xmas-rush.jpg",
+                                 "mid":"https://altacdn.com/bef/img/games/254638-santas-xmas-rush_thumbnailx2.jpg",
+                                 "big":null,
+                                 "promo":"https://altacdn.com/bef/img/games/254638-santas-xmas-rush.jpg"
+                              },
+                              "idx":451,
+                              "rtp":"",
+                              "brand":{
+                                 "brand_id":960,
+                                 "name":"PragmaticPlay",
+                                 "logo":"https://altacdn.com/bef/img/brands/pragmaticplay_logo.svg"
+                              },
+                              "tournament":false,
+                              "categories":[
+                                 
+                              ],
+                              "collections":[
+                                 
+                              ],
+                              "demo":true
+                           },
+                           "wager":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257435,
+               "type":"autobonus",
+               "title":"Wheel 10 LP",
+               "description":10,
+               "alias":"wheel-10-lp-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"loyalty",
+                           "amount":"10",
+                           "status":"new",
+                           "wager":35,
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257459,
+               "type":"autobonus",
+               "title":"Wheel Bonus 3 EUR",
+               "description":"3€",
+               "alias":"wheel-bonus-3-eur-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"casino",
+                           "amount":3,
+                           "status":"new",
+                           "wager":50,
+                           "currency":"EUR",
+                           "rollover":150,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            },
+            {
+               "benefit_id":257438,
+               "type":"autobonus",
+               "title":"Wheel 10 FS",
+               "description":10,
+               "alias":"wheel-10-fs-unf-2",
+               "image":null,
+               "icons":{
+                  "on":null,
+                  "off":null
+               },
+               "categories":[
+                  
+               ],
+               "choices":[
+                  {
+                     "bonuses":[
+                        {
+                           "type":"freespin",
+                           "amount":"10",
+                           "status":"new",
+                           "game":{
+                              "game_id":67807,
+                              "name":"Gates of Olympus 1000",
+                              "alias":"204081-gates-of-olympus-1000",
+                              "ratio":"16:9",
+                              "images":{
+                                 "small":"https://altacdn.com/bef/img/games/204081-gates-of-olympus-1000.jpg",
+                                 "mid":"https://altacdn.com/bef/img/games/204081-gates-of-olympus-1000_thumbnailx2.jpg",
+                                 "big":null,
+                                 "promo":"https://altacdn.com/bef/img/games/204081-gates-of-olympus-1000.jpg"
+                              },
+                              "idx":15,
+                              "rtp":"",
+                              "brand":{
+                                 "brand_id":960,
+                                 "name":"PragmaticPlay",
+                                 "logo":"https://altacdn.com/bef/img/brands/pragmaticplay_logo.svg"
+                              },
+                              "tournament":true,
+                              "categories":[
+                                 
+                              ],
+                              "collections":[
+                                 
+                              ],
+                              "demo":true
+                           },
+                           "wager":50,
+                           "exclusive":{
+                              
+                           },
+                           "sticky":false
+                        }
+                     ]
+                  }
+               ],
+               "recurring":"week",
+               "count":1,
+               "hits":0,
+               "status":"new",
+               "pct":0,
+               "steps":[
+                  
+               ]
+            }
+         ],
+         "rotation":[
+            {
+               "payment_type":"loyalty",
+               "cost":0
+            },
+            {
+               "payment_type":"loyalty",
+               "cost":100
+            }
+         ],
+         "limits":{
+            "recurring":"week",
+            "spins_completed":2,
+            "max_total_spins":2,
+            "max_free_spins":0
+         },
+         "all_results":[
+            257439,
+            257432
+         ]
+      }
+   ]
+}
